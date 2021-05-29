@@ -1,11 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import TaskList from './TaskList';
+import TaskManager from './TaskManager';
 
 function App() {
   return (
-    <TaskList />
+    <TaskManager />
   );
 }
 

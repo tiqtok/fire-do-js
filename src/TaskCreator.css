@@ -1,0 +1,27 @@
+#create-task {
+    height: 10px;
+    width: 100%;
+}
+
+#submit-button {
+    height: 30px;
+    width: 180px;
+
+}
+
+.task-creator-form {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+input {
+    display: block;
+    width: 100%;
+}
+
+#submit-btn-container {
+    display: flex;
+    justify-content: center;
+}
